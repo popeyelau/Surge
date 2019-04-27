@@ -1,0 +1,708 @@
+{
+    "requestId": "a203096b46bc413aa3cffb49f1745169",
+    "msg": "",
+    "code": "0000",
+    "data": {
+        "medalList": [{
+            "medal": {
+                "id": 6,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127118343.png",
+                "name": "三周年·铜",
+                "orderNum": 5,
+                "text": "2017年人人视频三周年之际推出的纪念勋章，衷心的感谢新老同学一直以来的大力支持。",
+                "getWay": "已绝版",
+                "durationDays": -1,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "NONE http://mobile.rr.tv/app/welfare/#/welfare",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 3,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.05",
+                    "description": "经验值加成+5%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 7,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127445782.png",
+                "name": "三周年·银",
+                "orderNum": 6,
+                "text": "2017年人人视频三周年之际推出的纪念勋章，衷心的感谢新老同学一直以来的大力支持。",
+                "getWay": "已绝版",
+                "durationDays": -1,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "NONE http://mobile.rr.tv/app/welfare/#/welfare",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 3,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 11,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510123073637.png",
+                "name": "圣诞白雪",
+                "orderNum": 0,
+                "text": "在每年12月25日，圣诞节是一个宗教节，因为把它当作耶稣的诞辰来庆祝，故名“耶诞节”。",
+                "getWay": "圣诞节日活动",
+                "durationDays": 365,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "NONE ",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 2,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.25",
+                    "description": "经验值加成+25%",
+                    "icon": "jingyanzhijiacheng"
+                }, {
+                    "effectObject": "article",
+                    "action": "write",
+                    "func": "highLight",
+                    "description": "高亮发帖",
+                    "icon": "gaoliangfatie"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 13,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127533186.png",
+                "name": "新年快乐",
+                "orderNum": 15,
+                "text": "传统上的农历新年，俗称“年节”， 中国人过春节已有4000多年的历史。",
+                "getWay": "活动已结束",
+                "durationDays": 365,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "NONE http://mobile.rr.tv/appWeb/#/newYearActivity",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 2,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "nickName",
+                    "action": "show",
+                    "func": "nameHighLight",
+                    "description": "高亮昵称",
+                    "icon": "gaoliangnicheng"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.5",
+                    "description": "经验值加成+50%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 22,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20181224/o_1545631459296.png",
+                "name": "生肖 [猪]",
+                "orderNum": 0,
+                "text": "2019年-农历己亥猪年",
+                "getWay": "商城兑换",
+                "durationDays": 365,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "HTML http://mobile.rr.tv/app/welfare/",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 2,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.3",
+                    "description": "经验值加成+30%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 26,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20180627/o_1530105277271.png",
+                "name": "我是剧迷",
+                "orderNum": null,
+                "text": "上传剧集类视频并通过审核，每一个视频即可续期一天的勋章特权。须同时满足两个上传要求：1、该视频在影视花絮的分类下；2、视频带有“我是剧迷”的标签。视频上传网址：ucenter.rr.tv",
+                "getWay": "UP主活动",
+                "durationDays": 30,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "HTML rrspjump://article?articleId=868960",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noLimit",
+                    "description": "看剧无限制",
+                    "icon": "kanjuwuxianzhi"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 27,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20180724/o_1532434410633.png",
+                "name": "分享达人",
+                "orderNum": 14,
+                "text": "在UGC上传中心-分享视频页面，成功分享并过审一个视频，即可续期一天的勋章。参与网址：ucenter.rr.tv",
+                "getWay": "用户活动",
+                "durationDays": 1,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "NONE ",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 28,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20180816/o_1534413201800.png",
+                "name": "妙笔生花",
+                "orderNum": null,
+                "text": "人人视频官方认证作者特别持有，可通过剧评征集活动投稿，达标者即可获得，还可得到认证加V标识。",
+                "getWay": "参与投稿",
+                "durationDays": 365,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "POST 902389",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "article",
+                    "action": "write",
+                    "func": "highLight",
+                    "description": "高亮发帖",
+                    "icon": "gaoliangfatie"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 29,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20180824/o_1535108129493.png",
+                "name": "剧无霸",
+                "orderNum": null,
+                "text": "“人人剧评团”短评达人专属，加入剧评团，每月达标者即可获得。",
+                "getWay": "参与活动",
+                "durationDays": 30,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "POST 924603",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }, {
+                    "effectObject": "article",
+                    "action": "write",
+                    "func": "highLight",
+                    "description": "高亮发帖",
+                    "icon": "gaoliangfatie"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 31,
+                "createTime": 1556337233617,
+                "updateTime": 1556337233617,
+                "imgUrl": "http://img.rr.tv/medal/20181102/o_1541151100871.png",
+                "name": "四周年",
+                "orderNum": 93,
+                "text": "2018年人人视频四周年之际推出的纪念勋章，衷心的感谢新老同学一直以来的大力支持。（提示：本勋章不具备原画特权）",
+                "getWay": "商城兑换",
+                "durationDays": -1,
+                "activity": false,
+                "beginTime": null,
+                "endTime": null,
+                "getUrl": "HTML http://mobile.rr.tv/app/welfare/",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 3,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noLimit",
+                    "description": "看剧无限制",
+                    "icon": "kanjuwuxianzhi"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.2",
+                    "description": "经验值加成+20%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 1,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510128764030.png",
+                "name": "看剧必备",
+                "orderNum": 100,
+                "text": "开通后，看剧可选择“原画”画质，可搜索观看限制级剧。",
+                "getWay": "激活勋章",
+                "durationDays": 7,
+                "activity": true,
+                "beginTime": "2018-07-25 06:34:27",
+                "endTime": "2018-08-01 06:34:27",
+                "getUrl": "HTML http://mobile.rr.tv/mission/#/achievement/center",
+                "spec": "[{\"description\":\"7天\",\"durationDays\":\"7\",\"cost\":\"50\"},{\"description\":\"30天\",\"durationDays\":\"30\",\"cost\":\"200\"},{\"description\":\"100天\",\"durationDays\":\"100\",\"cost\":\"500\"}]",
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "originalPainting",
+                    "description": "解锁原画",
+                    "icon": "jiesuoyuanhua"
+                }, {
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noLimit",
+                    "description": "看剧无限制",
+                    "icon": "kanjuwuxianzhi"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.4",
+                    "description": "经验值加成+40%",
+                    "icon": "jingyanzhijiacheng"
+                }, {
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noAd",
+                    "description": "看剧无广告",
+                    "icon": "kanjuwuguanggao"
+                }, {
+                    "effectObject": "danmu",
+                    "action": "send",
+                    "func": "superBarrageBlue",
+                    "description": "超级弹幕",
+                    "icon": "chaojidanmu"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 2,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127551022.png",
+                "name": "小蜜蜂",
+                "orderNum": 90,
+                "text": "（自然月满签到，自动激活此勋章）那些在一个自然月里连续签到的同学，从不迟到早退，追求绝对的满勤，他们就是小蜜蜂的化身。",
+                "getWay": "去签到",
+                "durationDays": 30,
+                "activity": true,
+                "beginTime": "2018-08-31 00:07:52",
+                "endTime": "2018-09-30 00:07:52",
+                "getUrl": "HTML http://mobile.rr.tv/app/signIn/",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 4,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127509115.png",
+                "name": "鹊桥相会",
+                "orderNum": 13,
+                "text": "相传每年农历七月初七这一天，天上织女与牛郎在鹊桥相会，少男少女们会在这一天祈福、拜织女、吃巧果、染指甲、结扎巧姑。",
+                "getWay": "活动已结束",
+                "durationDays": 365,
+                "activity": true,
+                "beginTime": "2018-08-10 00:04:03",
+                "endTime": "2019-08-10 00:04:03",
+                "getUrl": "NONE https://m.jinlishenghuo.com/index.php?tp=plus/rr_vip&pt=3&cmark={clienttype}",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 2,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "article",
+                    "action": "write",
+                    "func": "highLight",
+                    "description": "高亮发帖",
+                    "icon": "gaoliangfatie"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.25",
+                    "description": "经验值加成+25%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 5,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20180518/o_1526626191919.png",
+                "name": "皎兔弄月",
+                "orderNum": 12,
+                "text": "中秋节以月之圆兆人之团圆，为寄托思念故乡，思念亲人之情，祈盼丰收、幸福。",
+                "getWay": "活动已结束",
+                "durationDays": 365,
+                "activity": true,
+                "beginTime": "2018-09-20 21:32:16",
+                "endTime": "2019-09-20 21:32:16",
+                "getUrl": "NONE ",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 2,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.25",
+                    "description": "经验值加成+25%",
+                    "icon": "jingyanzhijiacheng"
+                }, {
+                    "effectObject": "article",
+                    "action": "write",
+                    "func": "highLight",
+                    "description": "高亮发帖",
+                    "icon": "gaoliangfatie"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 8,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/screenshot/20171108/o_1510127455270.png",
+                "name": "三周年",
+                "orderNum": 7,
+                "text": "2017年人人视频三周年之际推出的纪念勋章，衷心的感谢新老同学一直以来的大力支持。",
+                "getWay": "已绝版",
+                "durationDays": -1,
+                "activity": true,
+                "beginTime": "2018-02-23 19:13:07",
+                "endTime": "2999-12-31 00:00:00",
+                "getUrl": "NONE http://mobile.rr.tv/app/welfare/#/welfare",
+                "spec": null,
+                "assembly": false,
+                "display": true,
+                "type": 3,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noLimit",
+                    "description": "看剧无限制",
+                    "icon": "kanjuwuxianzhi"
+                }, {
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.15",
+                    "description": "经验值加成+15%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "piece": {
+                "id": 4,
+                "createTime": 1514454424000,
+                "updateTime": 1545043263000,
+                "createTimeStr": null,
+                "name": "小恶魔碎片",
+                "icon": "http://img.rr.tv/backpackage/20181217/o_1545043263444.png?imageslim",
+                "itemType": "piece",
+                "brief": "立即合成",
+                "detail": null,
+                "url": "rrspjump://webview?url=http%3a%2f%2fmobile.rr.tv%2fmission%2f%23%2fmedal%2fcenter%3fid%3d18",
+                "autoUse": false,
+                "targetType": "medal",
+                "targetId": 18,
+                "convertRate": 6,
+                "isDel": false
+            },
+            "userBag": 108,
+            "medal": {
+                "id": 18,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20171228/o_1514456080988.png",
+                "name": "小恶魔",
+                "orderNum": 0,
+                "text": "可通过每日任务宝箱获得勋章碎片合成。",
+                "getWay": "每日任务",
+                "durationDays": 1,
+                "activity": true,
+                "beginTime": "2018-07-07 00:51:06",
+                "endTime": "2018-07-08 00:51:06",
+                "getUrl": "NONE undefined",
+                "spec": null,
+                "assembly": true,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.05",
+                    "description": "经验值加成+5%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 19,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20180102/o_1514888181204.png",
+                "name": "日诵五车",
+                "orderNum": 0,
+                "text": "书中自有黄金屋，书中自有颜如玉，居家旅行快速升级必备。",
+                "getWay": "已停售",
+                "durationDays": 30,
+                "activity": true,
+                "beginTime": "2018-05-04 07:07:14",
+                "endTime": "2018-06-03 07:07:14",
+                "getUrl": "NONE http://mobile.rr.tv/app/welfare/#/welfare",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.35",
+                    "description": "经验值加成+35%",
+                    "icon": "jingyanzhijiacheng"
+                }, {
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "noLimit",
+                    "description": "看剧无限制",
+                    "icon": "kanjuwuxianzhi"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "piece": {
+                "id": 5,
+                "createTime": 1514973387000,
+                "updateTime": 1538194005000,
+                "createTimeStr": null,
+                "name": "活跃达人碎片",
+                "icon": "http://img.rr.tv/backpackage/20180929/o_1538194011937.png?imageslim",
+                "itemType": "piece",
+                "brief": "立即合成",
+                "detail": null,
+                "url": "rrspjump://webview?url=http%3a%2f%2fmobile.rr.tv%2fmission%2f%23%2fmedal%2fcenter%3fid%3d20",
+                "autoUse": false,
+                "targetType": "medal",
+                "targetId": 20,
+                "convertRate": 30,
+                "isDel": false
+            },
+            "userBag": 68,
+            "medal": {
+                "id": 20,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20180125/o_1516869189844.png",
+                "name": "活跃达人",
+                "orderNum": 88,
+                "text": "此勋章是活跃份子们的荣誉见证。",
+                "getWay": "每日任务",
+                "durationDays": 30,
+                "activity": true,
+                "beginTime": "2018-07-01 00:14:08",
+                "endTime": "2018-07-31 00:14:08",
+                "getUrl": "NONE ",
+                "spec": null,
+                "assembly": true,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.1",
+                    "description": "经验值加成+10%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 24,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20180517/o_1526536423940.png",
+                "name": "世界杯",
+                "orderNum": null,
+                "text": "【售卖时间：每届世界杯期间】足球有“世界第一运动”的美誉，是全球体育界最具影响力的单项体育运动，2018俄罗斯世界杯已于2018.7.15结束，法国队最终夺冠。",
+                "getWay": "已停售",
+                "durationDays": -1,
+                "activity": true,
+                "beginTime": "2018-06-14 19:38:54",
+                "endTime": "2999-12-31 00:00:00",
+                "getUrl": "NONE http://mobile.rr.tv/app/welfare/#/welfare",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 3,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "growth",
+                    "action": "play",
+                    "func": "0.2",
+                    "description": "经验值加成+20%",
+                    "icon": "jingyanzhijiacheng"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }, {
+            "medal": {
+                "id": 25,
+                "createTime": 1556337233611,
+                "updateTime": 1556337233611,
+                "imgUrl": "http://img.rr.tv/medal/20180607/o_1528365641950.png",
+                "name": "1080P",
+                "orderNum": 0,
+                "text": "看剧可选择“原画” 画质，此勋章仅作为原画体验使用。若要长期解锁原画：请自助激活（看剧必备）勋章。",
+                "getWay": "参与活动",
+                "durationDays": 1,
+                "activity": true,
+                "beginTime": "2018-09-20 21:30:41",
+                "endTime": "2018-09-27 21:30:41",
+                "getUrl": "HTML http://mobile.rr.tv/fe/#/h5/givemedal",
+                "spec": null,
+                "assembly": false,
+                "display": null,
+                "type": 1,
+                "visible": true,
+                "medalPrivilegeViewList": [{
+                    "effectObject": "video",
+                    "action": "play",
+                    "func": "originalPainting",
+                    "description": "解锁原画",
+                    "icon": "jiesuoyuanhua"
+                }],
+                "createTimeStr": "刚刚"
+            }
+        }]
+    }
+}
