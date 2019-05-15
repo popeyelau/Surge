@@ -10,11 +10,11 @@
 
 ```
 [Script]
-http-response ^https:\/\/api\.rr\.tv script-path=https://raw.githubusercontent.com/popeyelau/Surge/master/rrtv.js
+http-response ^https:\/\/api\.rr\.tv(\/user\/profile|\/ad\/getAll) script-path=https://raw.githubusercontent.com/popeyelau/Surge/master/rrtv.js
 ```
 
 
 ---
-[Surge Scripting](https://manual.nssurge.com/scripting/http-response.html)
+[Surge Scripting](https://manual.nssurge.com/http-processing/scripting.html)
 
 
