@@ -11,6 +11,9 @@
 ```
 [Script]
 http-response ^https:\/\/api\.rr\.tv(\/user\/profile|\/ad\/getAll) script-path=https://raw.githubusercontent.com/popeyelau/Surge/master/rrtv.js
+
+[MITM]
+hostname = api.rr.tv
 ```
 
 
